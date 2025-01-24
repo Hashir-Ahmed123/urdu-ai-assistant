@@ -21,4 +21,4 @@ This is a simple Urdu voice assistant built using Python. It can perform basic t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/urdu-ai-assistant.git
+   git clone https://github.com/Hashir-Ahmed123/urdu-ai-assistant.git
